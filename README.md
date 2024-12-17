@@ -1,1 +1,3 @@
-# flutter_file_splitter
+# file_splitter
+
+A new Flutter project.
